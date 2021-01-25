@@ -1,19 +1,25 @@
 # GooseGameKata
 
-How to compile and run the application.
+How to **compile** and **run** the application.
 
-    Be sure to have installed Java (1.8 or higher) and Maven (3.x or higher)
+1. Be sure to have installed Java (1.8 or higher) and Maven (3.x or higher)
+   
 
-    Download the zip and extract it in a directory of your choice
+2. Download the zip and extract it in a directory of your choice
+   
 
-    Open a command line terminal and go to that directory
+3. Open a command line terminal and go to that directory
+   
 
-    Generate the executable jar by typing:
+4. Generate the executable jar by typing:
+   
 
-    mvn package
+5. mvn package
+   
 
-    Run by going to "/target" directory and typing:
+6. Run by going to "/target" directory and typing:
+   
 
-    java -jar // TODO
+7. java -jar // TODO
 
-    Enjoy!
+Enjoy!
